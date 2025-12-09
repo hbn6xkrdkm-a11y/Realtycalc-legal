@@ -1,7 +1,7 @@
 # Terms of Use for RealtyCalc
 Last updated: 12/9/2025
 
-Welcome to RealtyCalc (“the App”), owned and operated by **ASHER BROW** (“we”, “our”, “us”).  
+Welcome to RealtyCalc (“the App”), owned and operated by **ASHER BROW** (“I”, “Me").  
 By downloading or using the App, you agree to these Terms of Use.
 
 Please read them carefully.
