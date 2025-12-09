@@ -1,7 +1,7 @@
 # Privacy Policy for RealtyCalc
 Last updated: 12/9/2025
 
-Thank you for using RealtyCalc (“the App”), owned and operated by **Brow Industries LLC** (“we”, “us”, “our”).  
+Thank you for using RealtyCalc (“the App”), owned and operated by **ASHER BROW** (“I”, “ME”).  
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect information when you use the App.
 
 ---
