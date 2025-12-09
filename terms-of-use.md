@@ -59,7 +59,7 @@ We do not process or store payment information.
 ---
 
 ## 6. Intellectual Property
-All content, design, code, and branding within RealtyCalc are the property of **Brow Industries LLC**.
+All content, design, code, and branding within RealtyCalc are the property of **ASHER BROW**.
 
 You may not copy, distribute, or create derivative works without written permission.
 
